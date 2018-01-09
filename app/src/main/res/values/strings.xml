@@ -1,0 +1,49 @@
+<!-- Copyright 2016 Google Inc.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+    http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License. -->
+
+<resources>
+    <string name="Logout">Keluar Akun</string>
+    <string name="app_name">Focus Sewa Camera</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_text">Silakan Pilih</string>
+    <string name="choose_a_dessert">Kategori Pilihan.</string>
+    <string name="donuts">Tiket Pesawat </string>
+    <string name="ice_cream_sandwiches">Tiket Kereta Api</string>
+    <string name="froyo">Tour</string>
+    <string name="donut_order_message">Kamu Telah Memesan Tiket Pesawat.</string>
+    <string name="ice_cream_order_message">Kamu Telah Memesan Tiket Kereta Api.</string>
+    <string name="froyo_order_message">Kamu Telah Memesan Tour.</string>
+    <string name="choose_delivery_method">Pilihan:</string>
+    <string name="same_day_messenger_service">Sekali Pergi</string>
+    <string name="next_day_ground_delivery">Pulang Pergi</string>
+    <string name="pick_up">Pulang Pergi (Menginap)</string>
+    <string name="chosen">"Chosen: "</string>
+    <string name="action_contact">Tentang</string>
+    <string name="action_order">Order</string>
+    <string name="action_status">Status</string>
+    <string name="action_favorites">Keluar</string>
+    <string name="action_order_message">You selected Order.</string>
+    <string name="pesan">Sukes Pemesanan!</string>
+    <string name="simpan">Sukes Menyimpan Pesanan!</string>
+    <string name="statuskereta">Kamu Berada Di Halaman Pemesanan Tiket Kereta</string>
+    <string name="statustour">Kamu Berada Di Halaman Pemesanan Tour</string>
+    <string name="statuspesawat">Kamu Berada Di Halaman Pemesanan Tiket Pesawat</string>
+    <string name="action_status_message">Kamu Berada Di Halaman Pertama</string>
+    <string name="action_favorites_message">Keluar</string>
+    <string name="action_contact_message">Tentang</string>
+    <string name="title_activity_order">Order Activity</string>
+    <string name="google_mtv_coord_zoom12">geo:37.422114,-122.086744?z=12</string>
+    <string name="nothing_clicked">onRadioButtonClicked: Nothing clicked.</string>
+    <string name="call">call</string>
+    <string name="action_message">Komplain Lewat SMS</string>
+    <string name="action_call">Komplain Lewat Telpon</string>
+    <string name="versiapp">Aplikasi Versi 1</string>
+</resources>
